@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YesiamAdarsh
-- 👀 I’m interested in Full stack development 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Full stack web development 
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me vishvajeetsavner@gmail.com
 
